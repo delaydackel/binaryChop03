@@ -6,7 +6,7 @@
 using namespace std;
 
 int chop(int target, int volume[], int left, int right) {
-	int result = 0;
+	
 	int dividingElement;
 	int numberOfElements;
 	int totalElements;
